@@ -1,0 +1,10 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+  classes:
+    - test_NG.Suite4
+    - test_NG.Suite2
+    - test_NG.Suite3
+    - test_NG.Suite1
+
